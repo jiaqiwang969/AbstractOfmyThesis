@@ -1,4 +1,7 @@
-# AbstractOfmyThesis
+
+# Research on Theoretical Modeling, Numerical Simulation and Instability Warning of Transonic Compressor Flow Instability
+
+## Abstract:
 
 The aeroengine is the heart of aviation weapons and equipment to ensure national security and highlight the status of a powerful country. It is an important symbol to measure a country's comprehensive science and technology level, basic strength of science and technology industry and comprehensive national strength. As the pearl in the crown of modern industry, the aeroengine is also one of the most complex engineering systems in the world today. Its flow instability has always been a key factor restricting its performance and efficiency. In the past 75 years, a lot of research has been carried out from three different perspectives: theory, numerical model and experiment. However, especially for high-speed aeroengine compressors, there are still many difficulties, including correct physical modeling, reasonable evaluation of system stability, more refined simulation of tip leakage vortex structure, turbulence and sound propagation, etc.
 
